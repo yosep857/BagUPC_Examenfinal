@@ -1,0 +1,24 @@
+.image_background {
+  background-image: url("/images/inicio.jpg");
+}
+
+.container_inicio{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  margin-bottom: 30px;
+}
+.container__login{
+  background-color: azure;
+  display: flex;
+  justify-content: center;
+  align-items: center ;
+  flex-direction:column;
+
+}
+.information_inicio {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

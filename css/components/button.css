@@ -1,0 +1,8 @@
+.button__primary{
+  width: 100px;
+  height: 25px;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
